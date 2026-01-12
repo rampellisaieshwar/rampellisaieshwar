@@ -76,18 +76,10 @@
 
 <div align="center">
 
-<a href="https://github.com/rampellisaieshwar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rampellisaieshwar&amp;show_icons=true&amp;locale=en&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="General Stats" />
-</a>
-<a href="https://github.com/rampellisaieshwar">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=rampellisaieshwar&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rampellisaieshwar&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampellisaieshwar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/rampellisaieshwar">
-  <img src="https://streak-stats.demolab.com?user=rampellisaieshwar&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Streak Stats" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=rampellisaieshwar&theme=tokyonight)](https://git.io/streak-stats)
 
-</div>
 </div>
