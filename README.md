@@ -76,10 +76,13 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rampellisaieshwar&show_icons=true&theme=tokyonight)]
+<!-- GitHub Stats -->
+![Sai Eshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rampellisaieshwar&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampellisaieshwar&layout=compact&theme=tokyonight)]
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampellisaieshwar&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rampellisaieshwar&theme=tokyonight)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=rampellisaieshwar&theme=tokyonight)
 
 </div>
