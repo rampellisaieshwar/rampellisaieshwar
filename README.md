@@ -72,22 +72,22 @@
 </div>
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/rampellisaieshwar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rampellisaieshwar&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="General Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rampellisaieshwar&amp;show_icons=true&amp;locale=en&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="General Stats" />
 </a>
 <a href="https://github.com/rampellisaieshwar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rampellisaieshwar&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=rampellisaieshwar&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Top Languages" />
 </a>
 
 <br/>
 
 <a href="https://github.com/rampellisaieshwar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rampellisaieshwar&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=rampellisaieshwar&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117" alt="Streak Stats" />
 </a>
 
+</div>
 </div>
