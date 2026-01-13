@@ -72,17 +72,4 @@
 </div>
 
 ---
-### 📊 GitHub Stats
 
-<div align="center">
-
-<!-- GitHub Stats -->
-![Sai Eshwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=rampellisaieshwar&show_icons=true&theme=tokyonight)
-
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rampellisaieshwar&layout=compact&theme=tokyonight)
-
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=rampellisaieshwar&theme=tokyonight)
-
-</div>
