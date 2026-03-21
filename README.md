@@ -26,7 +26,7 @@
       <ul>
         <li>🔭 Currently working on: <strong>LLM Agents & Real-Time Vision pipelines</strong></li>
         <li>🌱 Specialized in: <strong>Generative AI, NLP, and Low-Latency Video Processing</strong></li>
-        <li>🎓 Education: <strong>IIT Ropar (Minor in AI)</strong> & <strong>KITS (B.Tech)</strong></li>
+        <li>🎓 Education: <strong>IIT Ropar (Major in AI)</strong> & <strong>KITS (B.Tech)</strong></li>
         <li>💼 Experience: <strong>Applied AI Engineer Intern at 0101 Digitall</strong></li>
         <li>⚡ Fun fact: <strong>I build tools that convert vague ideas into software specs!</strong></li>
       </ul>
