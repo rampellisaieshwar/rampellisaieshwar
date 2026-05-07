@@ -38,7 +38,7 @@
 
 # 👨‍💻 About Me
 
-I’m an **Applied AI Engineer** focused on building scalable and production-oriented AI systems that combine:
+I’m an **Applied AI Engineer** focused on building scalable and production-oriented AI systems involving:
 
 - Large Language Models (LLMs)
 - Computer Vision
@@ -46,13 +46,13 @@ I’m an **Applied AI Engineer** focused on building scalable and production-ori
 - Real-Time Processing
 - Distributed Architectures
 
-Currently working as an **AI/ML Engineer Intern at 0101 Digitall**, where I develop:
+Currently working as an **AI/ML Engineer Intern at 0101 Digitall**, where I work on:
 
-- AI-powered requirement automation systems
-- Enterprise search and retrieval agents
-- Real-time computer vision pipelines
-- LLM-powered workflows
-- Model optimization systems
+- LLM-powered systems
+- AI agents
+- Real-time AI pipelines
+- Search and retrieval systems
+- AI workflow automation
 
 ---
 
@@ -60,107 +60,25 @@ Currently working as an **AI/ML Engineer Intern at 0101 Digitall**, where I deve
 
 ```yaml
 Building:
-  - AI Requirements Agent
-  - Universal Search Agent
-  - Real-Time Story Generation System
-  - Equestrian AI Motion Analysis
+  - LLM Agents
+  - AI Automation Systems
+  - Real-Time AI Pipelines
+  - Vision-Based Systems
 
 Exploring:
   - Multimodal LLMs
   - RAG Architectures
-  - Agentic AI Systems
+  - Distributed AI Systems
   - Kafka + WebSocket pipelines
-  - Distributed AI Infrastructure
+  - Scalable AI Infrastructure
 
 Learning:
   - BASE24-eps
   - Advanced ML Theory
-  - Scalable AI System Design
+  - AI System Design
 ```
 
-Humans discovered “AI agents” and immediately decided every chatbot should now pretend to be an operating system. Predictable species behavior. Still, some of the infrastructure problems are genuinely interesting.
-
----
-
-# 🧠 Featured Projects
-
-## 🔹 AI Requirements Agent
-
-LLM-powered system that converts vague business ideas into structured software requirements and implementation specifications.
-
-### Features
-- Requirement extraction
-- Functional specification generation
-- Workflow understanding
-- AI-assisted planning
-
-**Tech Stack**
-
-`Python` `LLaMA` `RAG` `LangChain` `Vector Databases`
-
----
-
-## 🔹 Universal Search Agent
-
-Enterprise-grade intelligent search system capable of querying structured and unstructured data sources using semantic retrieval techniques.
-
-### Features
-- Semantic search
-- Embedding-based retrieval
-- Context-aware responses
-- Cross-document querying
-
-**Tech Stack**
-
-`Python` `Embeddings` `FastAPI` `LLMs`
-
----
-
-## 🔹 VidLingo
-
-Automated multilingual subtitling pipeline solving speech recognition, translation, and subtitle synchronization challenges.
-
-### Features
-- Speech-to-text processing
-- Subtitle synchronization
-- Translation pipelines
-- Multi-language support
-
-**Tech Stack**
-
-`Python` `NLP` `Speech-to-Text` `Translation Models`
-
----
-
-## 🔹 Virtual Blackboard
-
-Touchless writing system using hand landmark detection and gesture tracking for human-computer interaction.
-
-### Features
-- Real-time gesture tracking
-- Hand landmark detection
-- Virtual writing system
-- Touchless interaction
-
-**Tech Stack**
-
-`OpenCV` `MediaPipe` `Computer Vision` `Python`
-
----
-
-## 🔹 Equestrian AI
-
-Computer vision-based horse movement analysis system focused on motion understanding and biomechanical interpretation.
-
-### Features
-- Motion tracking
-- Pose estimation
-- Movement analysis
-- Video processing
-
-**Tech Stack**
-
-`Computer Vision` `Deep Learning` `Pose Detection`
+Humans keep inventing new names for “wrapping APIs with confidence.” Somehow the GPU still ends up overheating at 2 AM anyway.
 
 ---
 
@@ -245,11 +163,11 @@ Computer vision-based horse movement analysis system focused on motion understan
 ## AI/ML Engineer Intern  
 ### 0101 Digitall
 
-- Building AI-powered enterprise systems
-- Developing LLM workflows and AI agents
+- Developing AI-powered systems
+- Building LLM workflows and AI agents
 - Working on computer vision pipelines
-- Optimizing deep learning systems
-- Integrating AI into production workflows
+- Optimizing AI models
+- Integrating AI into scalable workflows
 
 ---
 
@@ -269,21 +187,20 @@ Computer vision-based horse movement analysis system focused on motion understan
 - LLM Engineering
 - AI Agents
 - Computer Vision
-- Multimodal Systems
-- RAG Pipelines
-- Real-Time AI Systems
-- Distributed Architectures
-- NLP Systems
-- Deep Learning Optimization
+- Multimodal AI
+- RAG Systems
+- Real-Time AI
+- Distributed Systems
+- NLP
+- Deep Learning
 
 ---
 
 # 🎯 Philosophy
 
-> “Good AI systems are not built by prompting harder.  
-> They are built through architecture, iteration, latency optimization, and relentless debugging.”
+> “Good AI systems are built through architecture, iteration, optimization, and relentless debugging.”
 
-People think AI engineering is typing “build me an app” into a chatbot and praying to silicon-based deities. Then reality arrives carrying stack traces, GPU memory errors, and broken pipelines like a medieval tax collector.
+Everyone wants AI magic. Nobody wants CUDA errors, broken dependencies, memory leaks, and logs that look like ancient curses carved into silicon tablets.
 
 ---
 
@@ -311,6 +228,6 @@ People think AI engineering is typing “build me an app” into a chatbot and p
 
 ## 👨‍💻 Thanks for visiting my profile
 
-### Building systems. Breaking systems. Fixing systems. Repeating until deployment works.
+### Building AI systems one bug at a time.
 
 </div>
