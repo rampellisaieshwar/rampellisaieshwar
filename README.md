@@ -1,44 +1,286 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Sai%20Eshwar%20Rampelli&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Computer%20Vision&descAlignY=58&descAlign=50" />
-
-# Building AI systems that solve real-world problems
-
-### LLM Agents • Multimodal AI • Real-Time Vision • Distributed AI Systems
-
+# Hi 👋 I'm Sai Eshwar Rampelli
+### Applied AI Engineer | LLM Systems | Computer Vision | Real-Time AI
 <p align="center">
   <a href="https://linkedin.com/in/saieshwarrampelli">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="mailto:rampellisaieshwar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/rampellisaieshwar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://twitter.com/rampellisai">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
+  <a href="https://instagram.com/saieshwar_lohitasa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=rampellisaieshwar&label=Profile%20Views&color=0e75b6&style=flat" />
+</div>
+---
+# 👨‍💻 About Me
+I’m an **Applied AI Engineer** focused on building scalable and production-oriented AI systems using:
+- Large Language Models (LLMs)
+- Computer Vision
+- Agentic AI Workflows
+- Real-Time Streaming Architectures
+- Search & Retrieval Systems
+Currently working as an **AI/ML Engineer Intern at 0101 Digitall**, where I build AI-powered systems involving:
+- LLM-based Agents
+- Intelligent Requirement Automation
+- Semantic Search Pipelines
+- Real-Time Vision Systems
+- AI Infrastructure Workflows
+---
+# 🚀 Current Focus
+```yaml
+Building:
+  - AI Requirements Agent
+  - Universal Search Agent
+  - Real-Time Story Generation System
+  - Vision-based Horse Motion Analysis
+Exploring:
+  - Multimodal LLMs
+  - Agentic AI Systems
+  - RAG Architectures
+  - Distributed AI Systems
+  - Low-Latency AI Infrastructure
+Learning:
+  - BASE24-eps
+  - Advanced ML Theory
+  - Kafka + WebSocket Architectures
+
+⸻
+
+🧠 Featured Projects
+
+🔹 AI Requirements Agent
+
+Converts vague business ideas into structured software specifications using LLM workflows and retrieval systems.
+
+Features
+
+* Requirement extraction
+* Functional specification generation
+* Workflow automation
+* Context-aware prompting
+* Retrieval-enhanced reasoning
+
+Tech Stack
+
+Python LLaMA RAG LangChain Vector DB
+
+⸻
+
+🔹 Universal Search Agent
+
+Intelligent search system capable of querying across structured and unstructured enterprise data.
+
+Features
+
+* Semantic search
+* Context-aware retrieval
+* Embedding pipelines
+* Multi-source querying
+* AI-powered summarization
+
+Tech Stack
+
+LLMs FastAPI Embeddings Vector Search
+
+⸻
+
+🔹 VidLingo
+
+Automated multilingual subtitling pipeline solving speech recognition, translation, and subtitle synchronization challenges.
+
+Features
+
+* Speech-to-text conversion
+* Translation pipeline
+* Subtitle synchronization
+* Multi-language support
+
+Tech Stack
+
+Python NLP Speech-to-Text Translation Models
+
+⸻
+
+🔹 Virtual Blackboard
+
+Touchless writing interface using hand landmark detection and real-time gesture tracking.
+
+Features
+
+* Gesture recognition
+* Hand landmark tracking
+* Touchless drawing
+* Real-time interaction
+
+Tech Stack
+
+OpenCV MediaPipe Computer Vision Python
+
+⸻
+
+🔹 Equestrian AI
+
+Computer vision system for horse movement analysis and motion understanding.
+
+Features
+
+* Motion tracking
+* Pose estimation
+* Movement analysis
+* Video-based inference
+
+Tech Stack
+
+Computer Vision Pose Detection Deep Learning
+
+⸻
+
+⚙️ Tech Stack
+
+🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rampellisaieshwar&label=Profile%20Views&color=0e75b6&style=flat" />
+⸻
 
+⚡ Backend / Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+⸻
+
+🗄️ Languages / Databases
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+⸻
+
+📊 GitHub Stats
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rampellisaieshwar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rampellisaieshwar&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rampellisaieshwar&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
----
+⸻
 
-# 👨‍💻 About Me
+📈 Contribution Graph
 
-I’m an **Applied AI Engineer** focused on building scalable AI systems that combine:
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rampellisaieshwar&theme=tokyo-night&hide_border=true"/>
+</div>
 
-- Large Language Models
-- Computer Vision
-- Real-Time Processing
-- Agentic Workflows
-- Distributed Architectures
+⸻
+
+🎯 What I Like Building
+
+* AI Agents
+* RAG Systems
+* Computer Vision Pipelines
+* Real-Time AI Applications
+* Multimodal AI Systems
+* Distributed AI Infrastructure
+* Intelligent Search Systems
+
+⸻
+
+📚 Education
+
+🎓 B.Tech in Computer Science Engineering
+KITS Engineering College
+
+🎓 Minor Degree in Artificial Intelligence
+IIT Ropar
+
+⸻
+
+💼 Experience
+
+AI/ML Engineer Intern
+
+0101 Digitall
+
+* Developing AI-powered automation systems
+* Building LLM-based enterprise agents
+* Working on real-time computer vision applications
+* Optimizing AI workflows for production systems
+
+⸻
+
+🧩 Interests
+
+* Multimodal LLMs
+* AI System Design
+* Low-Latency AI
+* Distributed Architectures
+* Computer Vision Research
+* Agentic Workflows
+
+⸻
+
+🎯 Philosophy
+
+“Good AI systems are not built by prompting harder.
+They are built through architecture, iteration, latency optimization, and relentless debugging.”
+
+Most people think adding another API call is “AI engineering.”
+Then production arrives with latency, scaling, memory limits, broken pipelines, hallucinations, and pure chaos. Nature heals.
+
+⸻
+
+📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:rampellisaieshwar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/saieshwarrampelli">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+⸻
+
+<div align="center">
+
+Thanks for visiting 👨‍💻
+
+“Building intelligent systems one bug at a time.”
+
+</div>
+```- Distributed Architectures
 
 Currently working as an **AI/ML Engineer Intern at 0101 Digitall**, where I build production-oriented AI solutions involving:
 
