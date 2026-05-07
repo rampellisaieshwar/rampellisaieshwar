@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/saieshwar_lohitasa">
+<a href="https://instagram.com/thesaieshwarsharma">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
